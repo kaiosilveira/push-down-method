@@ -7,8 +7,4 @@ export class Employee {
   get name() {
     return this._name;
   }
-
-  get quota() {
-    return this._quota;
-  }
 }
